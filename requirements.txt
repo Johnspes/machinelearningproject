@@ -4,4 +4,5 @@ seaborn
 scikit-learn==0.24.2
 catboost
 xgboost
-# -e .
+dill
+#-e .
